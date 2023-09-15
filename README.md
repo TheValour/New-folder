@@ -1,4 +1,3 @@
-
 # Chrome Extension - Link Saver
 
 ## Overview
